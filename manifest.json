@@ -1,0 +1,16 @@
+{
+  "name": "SuperChat AI",
+  "short_name": "SuperChat",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0f17",
+  "theme_color": "#0d0f17",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
